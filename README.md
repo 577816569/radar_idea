@@ -9,3 +9,6 @@ Awesome Uncertainty in Deep learning. [[url]](https://github.com/ENSTA-U2IS/awes
 
 ## Noisy Learning
 Awesome Learning with Label Noise. [[url]](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise)
+
+## Self-supervised Learning
+Awesome Self-Supervised Learning. [[url]](https://github.com/jason718/awesome-self-supervised-learning)
